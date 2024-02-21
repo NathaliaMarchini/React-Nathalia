@@ -1,0 +1,17 @@
+header {
+    height: 100px;
+    background: rgb(38, 103, 138);
+}
+
+header h1, h2{
+    color: #ffff;
+    padding-left: 20px;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+header h2{
+    font-size: 20px;
+    text-transform: none;
+}

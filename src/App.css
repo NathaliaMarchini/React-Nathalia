@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+main{
+    /* esse !important força o comando a ser exceutado (como la em cima colocamos um margin 0,
+    esse margin aqui nao ta funcionando) */
+    margin-top: 20px !important;
+}
