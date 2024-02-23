@@ -1,0 +1,20 @@
+.buttons, .result{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 10px;
+    margin-right: 20px;
+    border: 0;
+    background: peru;
+    color: #ffff;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.result strong{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
