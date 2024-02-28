@@ -1,0 +1,7 @@
+.banner{
+    max-width: 600px;
+    height: 120px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}

@@ -1,7 +1,11 @@
 import { Header } from './components/header'
 import { Contador } from './components/contador'
 import { Lista } from './components/Lista'
+import { Footer } from './components/Footer'
+import { Banner } from './components/Banner'
 import './App.css'
+
+
 
 
 function App() {
@@ -22,9 +26,9 @@ function App() {
 
       <Lista />
 
-
-
+      <Banner />
     </main>
+    <Footer />
     </>
   )
 }
