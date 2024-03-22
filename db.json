@@ -1,0 +1,63 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "nome": "Carlos",
+      "email": "carlos@gmail.com",
+      "telefone": "787878788"
+    },
+    {
+      "id": "f842",
+      "nome": "nathalia",
+      "email": "nathaliamarchini8@gmail.com",
+      "telefone": "11 93335 5734",
+      "createdAt": "2024-03-13T12:13:47.460Z"
+    },
+    {
+      "id": "db81",
+      "nome": "samuel ",
+      "email": "samuel@hotmail",
+      "telefone": "793748691287",
+      "createdAt": "2024-03-13T13:21:08.066Z"
+    },
+    {
+      "id": "7940",
+      "nome": "vei",
+      "email": "vei@gmail.com",
+      "telefone": "123456789",
+      "endereco": "59",
+      "createdAt": "2024-03-13T13:51:35.841Z"
+    },
+    {
+      "id": "55d4",
+      "nome": "vei",
+      "email": "vei@gmail.com",
+      "telefone": "123456789",
+      "endereco": "",
+      "createdAt": "2024-03-13T13:53:38.440Z"
+    },
+    {
+      "id": "01e7",
+      "nome": "robson",
+      "email": "robsonoutlook@gmail.com",
+      "telefone": "8966546854323",
+      "endereco": "6448",
+      "createdAt": "2024-03-15T13:17:09.785Z"
+    },
+    {
+      "id": "c213",
+      "nome": "",
+      "email": "",
+      "telefone": "",
+      "endereco": "",
+      "createdAt": "2024-03-15T13:17:10.585Z"
+    }
+  ],
+  "about": [
+    {
+      "id": "1",
+      "title": "sobre",
+      "descricao": "lorem ipsum lorem ipsum"
+    }
+  ]
+}
